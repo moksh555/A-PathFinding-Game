@@ -1,4 +1,4 @@
-# A-PathFinding-Visualizer-Game
+# A*-PathFinding-Visualizer-Game
 This project is a visual representation of the A* pathfinding algorithm implemented using Pygame. The visualization allows users to interact with the grid to set start and end points and place obstacles, and then watch as the algorithm finds the shortest path.
 
 # Features
